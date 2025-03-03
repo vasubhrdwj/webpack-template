@@ -1,1 +1,3 @@
-console.log("Javascript test tick");
+import "./style.css";
+
+console.log("Javascript test \u2705");
